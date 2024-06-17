@@ -14,5 +14,7 @@
   "peerDependencies": {
     "react-native": "^0.41.2"
   },
-  "packageManager": "yarn@3.6.4"
+  "dependencies": {
+    "react-native": "0.74.2"
+  }
 }
